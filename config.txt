@@ -1,4 +1,4 @@
-token=NTI2ODg3NzI3NjI3NTAxNTc4.DyfNCw.bhEEGjwZgBBr_mAv1x7XRSZD5sI
+token=NTM3MDI2ODg4MzAwNzU2OTkz.DyfQ2w.Xs6Zfp91ohyh6xsIVEUK4rH-lTQ
 owner=433198762706599936
 prefix=y
 game= yoka is here ..
